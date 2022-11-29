@@ -1,0 +1,520 @@
+fileFormatVersion: 2
+guid: b022c82396dec7341972450eec3f9bc5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8588080104509693699
+    second: knightidelfin_0
+  - first:
+      213: 343650809189226842
+    second: knightidelfin_1
+  - first:
+      213: -2474852030795009562
+    second: knightidelfin_2
+  - first:
+      213: -6138074173139966268
+    second: knightidelfin_3
+  - first:
+      213: 6552293029675627720
+    second: knightidelfin_4
+  - first:
+      213: 1313445047166778508
+    second: knightidelfin_5
+  - first:
+      213: -8808548329470291579
+    second: knightidelfin_6
+  - first:
+      213: -5294143436072180561
+    second: knightidelfin_7
+  - first:
+      213: 2958615261363075376
+    second: knightidelfin_8
+  - first:
+      213: -5276693161642014319
+    second: knightidelfin_9
+  - first:
+      213: -781151282873395777
+    second: knightidelfin_10
+  - first:
+      213: 8439135544526254019
+    second: knightidelfin_11
+  - first:
+      213: -5824529127008796609
+    second: knightidelfin_12
+  - first:
+      213: -2589980134536892494
+    second: knightidelfin_13
+  - first:
+      213: -3396490593680403299
+    second: knightidelfin_0
+  - first:
+      213: 3350598596610877840
+    second: knightidelfin_1
+  - first:
+      213: -6696533392319115186
+    second: knightidelfin_2
+  - first:
+      213: -6546280965374564688
+    second: knightidelfin_3
+  - first:
+      213: -5713070147357916808
+    second: knightidelfin_4
+  - first:
+      213: -1145357344822391359
+    second: knightidelfin_5
+  - first:
+      213: 1343123819311930538
+    second: knightidelfin_6
+  - first:
+      213: 1844691435509929432
+    second: knightidelfin_7
+  - first:
+      213: 5295236160662184036
+    second: knightidelfin_8
+  - first:
+      213: 6550574354510139267
+    second: knightidelfin_9
+  - first:
+      213: 4936462902901485062
+    second: knightidelfin_10
+  - first:
+      213: -7346656713997516979
+    second: knightidelfin_11
+  - first:
+      213: 1333017477253235523
+    second: knightidelfin_12
+  - first:
+      213: -8914025962389960232
+    second: knightidelfin_13
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 2
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: knightidelfin_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 957
+        height: 663
+      alignment: 9
+      pivot: {x: 0.6840462, y: 0.63814276}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df0a91485a201d880800000000000000
+      internalID: -8588080104509693699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knightidelfin_1
+      rect:
+        serializedVersion: 2
+        x: 957
+        y: 0
+        width: 957
+        height: 663
+      alignment: 9
+      pivot: {x: 0.6840462, y: 0.6381428}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a59df781794e4c400800000000000000
+      internalID: 343650809189226842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knightidelfin_2
+      rect:
+        serializedVersion: 2
+        x: 1914
+        y: 0
+        width: 957
+        height: 663
+      alignment: 9
+      pivot: {x: 0.6840462, y: 0.6381428}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e13fc8b03f87add0800000000000000
+      internalID: -2474852030795009562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knightidelfin_3
+      rect:
+        serializedVersion: 2
+        x: 2871
+        y: 0
+        width: 957
+        height: 663
+      alignment: 9
+      pivot: {x: 0.6840462, y: 0.6381428}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c62ef87f0e21daa0800000000000000
+      internalID: -6138074173139966268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knightidelfin_4
+      rect:
+        serializedVersion: 2
+        x: 3828
+        y: 0
+        width: 957
+        height: 663
+      alignment: 9
+      pivot: {x: 0.6840462, y: 0.6381428}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c475128bcb6eea50800000000000000
+      internalID: 6552293029675627720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knightidelfin_5
+      rect:
+        serializedVersion: 2
+        x: 4785
+        y: 0
+        width: 957
+        height: 663
+      alignment: 9
+      pivot: {x: 0.6840462, y: 0.6381428}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8c3f5cbf4b4a3210800000000000000
+      internalID: 1313445047166778508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knightidelfin_6
+      rect:
+        serializedVersion: 2
+        x: 5742
+        y: 0
+        width: 957
+        height: 663
+      alignment: 9
+      pivot: {x: 0.6840462, y: 0.6381428}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 581101bc6ffb1c580800000000000000
+      internalID: -8808548329470291579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knightidelfin_7
+      rect:
+        serializedVersion: 2
+        x: 6699
+        y: 0
+        width: 957
+        height: 663
+      alignment: 9
+      pivot: {x: 0.6840462, y: 0.6381428}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa4a3fe289c6786b0800000000000000
+      internalID: -5294143436072180561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knightidelfin_8
+      rect:
+        serializedVersion: 2
+        x: 7656
+        y: 0
+        width: 957
+        height: 663
+      alignment: 9
+      pivot: {x: 0.6840462, y: 0.6381428}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0397890a7ec1f0920800000000000000
+      internalID: 2958615261363075376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knightidelfin_9
+      rect:
+        serializedVersion: 2
+        x: 8613
+        y: 0
+        width: 957
+        height: 663
+      alignment: 9
+      pivot: {x: 0.6840462, y: 0.6381428}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 199489fc68b65c6b0800000000000000
+      internalID: -5276693161642014319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knightidelfin_10
+      rect:
+        serializedVersion: 2
+        x: 9570
+        y: 0
+        width: 957
+        height: 663
+      alignment: 9
+      pivot: {x: 0.6840462, y: 0.6381428}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb59d740c0bc825f0800000000000000
+      internalID: -781151282873395777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knightidelfin_11
+      rect:
+        serializedVersion: 2
+        x: 10527
+        y: 0
+        width: 957
+        height: 663
+      alignment: 9
+      pivot: {x: 0.6840462, y: 0.6381428}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cf2cd6b015dd1570800000000000000
+      internalID: 8439135544526254019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knightidelfin_12
+      rect:
+        serializedVersion: 2
+        x: 11484
+        y: 0
+        width: 957
+        height: 663
+      alignment: 9
+      pivot: {x: 0.6840462, y: 0.6381428}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3089b06e9d1b2fa0800000000000000
+      internalID: -5824529127008796609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knightidelfin_13
+      rect:
+        serializedVersion: 2
+        x: 12441
+        y: 0
+        width: 957
+        height: 663
+      alignment: 9
+      pivot: {x: 0.6840462, y: 0.6381428}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bf2c993aca8e0cd0800000000000000
+      internalID: -2589980134536892494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 1
+  pSDShowRemoveMatteOption: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
